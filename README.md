@@ -57,6 +57,7 @@
 
 ## News
 
+- 2021.04.19: NBC News - [Two Dead In Self-Driving Tesla Crash After Hitting Tree, Burst Into Flames](https://www.youtube.com/watch?v=5-5fLK0Ivaw)
 - 2021.04.06: [Flim.AI](https://beta.flim.ai/) - recommended by Olivia Bellotto de Moraes
 - 2020.08.14: MSN News - [A US Air Force F-16 pilot is going to take on an AI adversary in a simulated dogfight, and you can watch it live](https://www.msn.com/en-us/news/technology/a-us-air-force-f-16-pilot-is-going-to-take-on-an-ai-adversary-in-a-simulated-dogfight-and-you-can-watch-it-live/ar-BB17YsOQ)
 - 2020.07.09: Google AI Blog - [AutoML-Zero: Evolving Code that Learns](https://ai.googleblog.com/2020/07/automl-zero-evolving-code-that-learns.html)
